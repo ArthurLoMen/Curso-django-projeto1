@@ -1,1 +1,5 @@
 venv
+.vscode
+.setting.json
+.pytest_cache
+.mypy_cache
